@@ -1,0 +1,46 @@
+.Gif {
+    border-radius: 6px;
+    display: flex;
+    color: #fff;
+    position: relative;
+    margin-top: 20px;
+}
+
+.Gif:hover {
+  transition: all 0.3s ease;
+  background-color: #20242f;
+  border-radius: 20px;
+}
+
+.Gif-buttons {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 1;
+}
+
+.Gif-link {
+    text-decoration: none;
+    color: white;
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.Gif-link:hover {
+    transition: all 0.3s ease;
+    color: rgb(9, 81, 237);
+}
+
+.Gif h4 {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    bottom: 0;
+}
+
+.Gif img {
+    width: 100%;
+    border-radius: 10px;
+    object-fit: contain;
+    vertical-align: top;
+}

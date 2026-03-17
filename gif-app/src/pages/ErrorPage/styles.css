@@ -1,0 +1,26 @@
+.pageError {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  text-align: center;
+}
+
+.codeError {
+  font-size: 5rem;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.msgError {
+  font-size: 1.5rem;
+  margin: 1rem auto;
+}
+
+.gifError {
+  margin: 1rem auto;
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
