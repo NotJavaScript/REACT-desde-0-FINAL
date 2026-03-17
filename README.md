@@ -39,4 +39,4 @@ React fue el destino, pero ahora es mi herramienta. Mis próximos pasos incluyen
 - [ ] Aprender C# junto a .NET y adentrarme en el mundo del BackEnd.
 ---
 
-** ¡Nos veremos en otros repositorios! **
+**¡Nos veremos en otros repositorios!**
